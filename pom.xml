@@ -100,7 +100,7 @@
                             <useReleaseProfile>false</useReleaseProfile>
                             <releaseProfiles>release</releaseProfiles>
                             <goals>deploy nexus-staging:release</goals>
-                            <scmCommentPrefix>[release]: </scmCommentPrefix>
+                            <scmCommentPrefix>[release]:&#32;</scmCommentPrefix>
                             <tagNameFormat>@{project.version}</tagNameFormat>
                         </configuration>
                     </plugin>
