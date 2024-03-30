@@ -11,11 +11,11 @@
   <name>Progralink Open-Source Maven Parent POM</name>
   <description>Maven Parent POM for Progralink Open-Source projects</description>
 
-  <url>https://github.com/Progralink/maven-parent-pom</url>
+  <url>https://github.com/Progralink/Maven-Parent-POM</url>
   <scm>
-    <connection>scm:git:git://github.com/Progralink/maven-parent-pom.git</connection>
-    <developerConnection>scm:git:https://github.com/Progralink/maven-parent-pom.git</developerConnection>
-    <url>https://github.com/Progralink/maven-parent-pom</url>
+    <connection>scm:git:git://github.com/Progralink/Maven-Parent-POM.git</connection>
+    <developerConnection>scm:git:https://github.com/Progralink/Maven-Parent-POM.git</developerConnection>
+    <url>https://github.com/Progralink/Maven-Parent-POM</url>
     <tag>HEAD</tag>
   </scm>
 
