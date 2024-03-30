@@ -4,7 +4,7 @@
 
     <groupId>com.progralink</groupId>
     <artifactId>progralink-opensource-parent-pom</artifactId>
-    <version>0.9.2</version>
+    <version>0.9.3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Progralink Open-Source Maven Parent POM</name>
@@ -15,7 +15,7 @@
 	  <connection>scm:git:git://github.com/Progralink/maven-parent-pom.git</connection>
 	  <developerConnection>scm:git:https://github.com/Progralink/maven-parent-pom.git</developerConnection>
 	  <url>https://github.com/Progralink/maven-parent-pom</url>
-	  <tag>0.9.2</tag>
+	  <tag>1</tag>
   </scm>
 
     <organization>
