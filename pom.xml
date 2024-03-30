@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.progralink</groupId>
   <artifactId>progralink-opensource-parent-pom</artifactId>
-  <version>0.9.4-SNAPSHOT</version>
+  <version>1</version>
   <packaging>pom</packaging>
 
   <name>Progralink Open-Source Maven Parent POM</name>
@@ -16,7 +15,7 @@
     <connection>scm:git:git://github.com/Progralink/Maven-Parent-POM.git</connection>
     <developerConnection>scm:git:https://github.com/Progralink/Maven-Parent-POM.git</developerConnection>
     <url>https://github.com/Progralink/Maven-Parent-POM</url>
-    <tag>HEAD</tag>
+    <tag>1</tag>
   </scm>
 
   <organization>
@@ -120,7 +119,7 @@
   </licenses>
 
   <properties>
-    <main-class/>
+    <main-class />
     <java.version>8</java.version>
     <maven.compiler.source>${java.version}</maven.compiler.source>
     <maven.compiler.target>${java.version}</maven.compiler.target>
